@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+.top{
+	
+	width:100%;
+	height:100px;
+	border:1px black solid;
+}
+.top .logo{
+	border:1px black solid;
+	width:15%;
+	float:left;
+	height: 100%;
+	
+}
+.top .menuyeri{
+ float:left;	
+	width:60%;
+	height:100%;
+	border:1px black solid;
+}
+.top .menuler{
+	float:right;
+	margin-top:5%;
+}
+.top .kayityeri{
+	border:1px black solid;
+	width:25%;
+	float:left;
+	height:100%;
+}
+.top .kayityeri .girisyap{
+	float:right;
+	margin-top:15%;
+	margin-right:15%;
+}
+.top .kayityeri .girisyap a{
+	
+	margin-left:10px;
+}
