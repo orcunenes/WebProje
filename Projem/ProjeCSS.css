@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 #container1{
-	height:1100px;
+	height:1200px;
 }
 .bosluk{
 	background-color:#1F1F1F;
@@ -29,6 +29,7 @@
 .top .menuler{
 	float:right;
 	margin-top:5%;
+	margin-right: 15%;
 }
 .top .kayityeri{
 	border:1px black solid;
@@ -49,17 +50,29 @@
 
 
 .ortaBody{
-	background-color:grey;
+	background-color:#1F1F1F;
 	height:70%;
 	width:100%;
 }
 .ortaBody .ortasol{
-	background-color:blue;
-	border: 1px black solid;
+	
 	float:left;
 	width:15%;
 	height:90%;
+	margin-left:1px;
 	
+}
+.ortaBody .ortasol #ustmargin{
+	margin-top:10%;
+}
+.ortaBody .ortasol .solalt{
+	margin-top:400px;
+	margin-left:30%;
+}
+.ortaBody .ortasol .solalt a{
+	color:white;
+	text-align: center;
+	font-size: 11px;
 }
 .ortaBody .ortacontent{
 	margin-left:15px;
@@ -68,6 +81,38 @@
 	width:57%;
 	float:left;
 }
+.ortaBody .ortaslider{
+	width:95%;
+	height:80%;
+	
+}
+.ortaBody .ortaaltcontent{
+	margin-top:15px;
+	width:85%;
+	height:100%;
+}
+.ortaBody .ortaaltcontent #topmargin{
+	margin-top:5%;
+	margin-left:5%;
+}
+.ortaBody .ortaaltcontent .oyunlar{
+	width:90%;
+	height:30%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .ortaBody .ortasag{
 	float:left;
 	width:25%;
