@@ -53,11 +53,19 @@
 
 
 
+
+.hr{
+	height:2px;
+	width:100%;
+	background-color:grey;
+}
+
+
 .ortaBody{
 	background-color:#1F1F1F;
 	height:70%;
 	width:100%;
-	margin-top:5%;
+	margin-top:2%;
 }
 .ortaBody .ortasol{
 	
