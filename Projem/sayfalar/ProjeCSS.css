@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container1{
+	height:1200px;
+	border: 5px solid grey;
+}
+.bosluk{
+	background-color:#1F1F1F;
+	height:10%;
+}
+.top{
+	
+	width:100%;
+	height:100px;
+	border:1px black solid;
+}
+.top .logo{
+	border:1px black solid;
+	width:15%;
+	float:left;
+	height: 100%;
+	
+}
+.top .logo img {
+	width:100%;
+	height:100%;
+}
+.top .menuyeri{
+ float:left;	
+	width:60%;
+	height:100%;
+	border:1px black solid;
+}
+.top .menuler{
+	float:right;
+	margin-top:5%;
+	margin-right: 15%;
+}
+.top .kayityeri{
+	border:1px black solid;
+	width:25%;
+	float:left;
+	height:100%;
+}
+.top .kayityeri .girisyap{
+	float:right;
+	margin-top:15%;
+	margin-right:15%;
+}
+.top .kayityeri .girisyap a{
+	
+	margin-left:10px;
+}
+
+
+
+
+.hr{
+	height:2px;
+	width:100%;
+	background-color:grey;
+}
+
+
+.ortaBody{
+	background-color:#1F1F1F;
+	height:70%;
+	width:100%;
+	margin-top:2%;
+}
+.ortaBody .ortasol{
+	
+	float:left;
+	width:15%;
+	height:90%;
+	margin-left:1px;
+	
+}
+.ortaBody .ortasol #ustmargin{
+	margin-top:10%;
+}
+.ortaBody .ortasol .solalt{
+	margin-top:400px;
+	margin-left:30%;
+}
+.ortaBody .ortasol .solalt a{
+	color:white;
+	text-align: center;
+	font-size: 11px;
+}
+.ortaBody .ortacontent{
+	margin-left:15px;
+	margin-top:15px;
+	height:35%;
+	width:57%;
+	float:left;
+}
+.ortaBody .ortaslider{
+	width:95%;
+	height:80%;
+	
+}
+.ortaBody .ortaaltcontent{
+	margin-top:15px;
+	width:85%;
+	height:100%;
+}
+.ortaBody .ortaaltcontent #topmargin{
+	margin-top:5%;
+	margin-left:5%;
+}
+.ortaBody .ortaaltcontent .oyunlar{
+	width:90%;
+	height:30%;
+	
+}
+.ortaBody .ortasag{
+	float:left;
+	width:25%;
+	margin-left:17px;
+	border: 1px black solid;
+	height:100%;
+	
+}
+.ortaBody .ortasag .istatistikler{
+	width:100%;
+	margin-top:2%;
+	height:44%;
+}
+.ortaBody .ortasag .onlineoyuncular{
+	width:100%;
+	height:45%;
+}
+
+
+
+.footer{
+	background-color:Grey;
+	width:100%;
+	height:120px;
+	
+}
+.footeralign{
+	margin-top:4%;
+	margin-left:25%;
+	width:100%;
+	height:120px;
+	padding-top:25px;
+}
